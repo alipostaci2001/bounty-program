@@ -296,7 +296,7 @@ Check out the [support](#-support) section.
 
 ### Who is reviewing submissions to the Zama bounty program?
 
-Our program committee is responsible for reviewing your code, merging your final PR, and rewarding your submission. We have selected a broad range of Zama team members to ensure that the process is as fair, fast, and smooth as possible.
+Our program committee is responsible for reviewing your code, merging your final PR, and rewarding your submission. We have selected a broad range of Zama team members to ensure that the process is as fair, fast and smooth as possible.
 
 
 
